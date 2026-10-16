@@ -1,0 +1,23 @@
+{
+  "host": "127.0.0.1",
+  "port": 36980,
+  "token": "CAMBIA-ESTE-TOKEN",
+  "timeout_seconds": 30.0,
+  "default_account": null,
+
+  "ninjatrader_path": null,
+  "vault_path": null,
+  "data_path": null,
+  "extra_vault_dirs": null,
+
+  "allow_source_write": false,
+  "allow_reflection": true,
+
+  "http": {
+    "host": "127.0.0.1",
+    "port": 8765,
+    "token": null,
+    "enable_rest": true,
+    "cors_origins": []
+  }
+}
